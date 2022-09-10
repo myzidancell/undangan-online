@@ -1,0 +1,45 @@
+body {
+    min-height: 3000px;
+  }
+  
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #898c91;
+  }
+  #services {
+    
+    margin-bottom: auto;
+    border: #898c91;
+   
+  
+  }
+  section {
+    padding-top: 1rem;
+  }
+  #runningtext {
+    width: 100%;
+    background-color: #e2edff;
+    color: white;
+    position: relative;
+  }
+  .gallery-img {
+    width: 100%;
+  }
+  #gallery .row > * {
+    padding: 2px;
+  }
+  /*style kategori*/
+  .img-kategori{
+    
+    width :100px;
+  }
+  .img-kategori:hover{
+    transform: scale(1.2);
+    transition: 0.2s;
+  
+  }
+  .card-body {
+    background-color:#e2edff;
+  
+   
+  }
