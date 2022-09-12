@@ -6,19 +6,21 @@ body {
     padding-top: 6rem;
     background-color: #898c91;
   }
+ 
   #services {
     
     margin-bottom: auto;
     border: #898c91;
-   
-  
+    background-color: #898c91;
   }
+  
+
   section {
     padding-top: 1rem;
   }
   #runningtext {
     width: 100%;
-    background-color: #e2edff;
+    background-color: #898c91;
     color: white;
     position: relative;
   }
