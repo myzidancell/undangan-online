@@ -4,14 +4,14 @@ body {
   
   .jumbotron {
     padding-top: 4rem;
-    background-color:#898c91;
+    background-color:#76ccee;
   }
  
   #services {
     
     margin-bottom: auto;
     border: #898c91;
-    background-color: #898c91;
+    background-color:#76ccee;
   }
   
 
@@ -20,7 +20,7 @@ body {
   }
   #runningtext {
     width: 100%;
-    background-color: #898c91;
+    background-color: #76ccee;
     color: white;
     position: relative;
   }
